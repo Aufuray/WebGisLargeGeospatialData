@@ -1,0 +1,28 @@
+## Documentation
+
+### February - March
+* I used D3.js library to create a tree with the EcoRegion and taxonomy data.
+* I added checkboxes beside each tree node and a submit button
+* When the submit button was clicked, the node value for every selected checkbox was displayed in a div beside the tree.
+
+### March
+* I used the gbif_taxon data to create a JSON representation to be fed into D3.js library.
+* I wrote a python script formatdata.py to remove all nodes with missing values replresented by prescence of '\N'
+** Old File Line Num: 1,491,337
+** New File Line Num 1,395,400
+** Line Diff 95,937
+
+* The output of the python parser was then fed as input to another python script to change to expected JSON format.
+* File hierachy
+ kingdom -> phylum -> class -> order -> family -> genus -> scientificName ->taxoid.
+
+ ### April
+Wrote the finalparser.py to parse the gbif data into correct tree heirachy for input into the D3.js library.
+Output of this script is gbif.json
+After this file is created, I zip the file and upload to my server
+I use npm json-minify to remove spaces from the file hence reducing the size of the JSON file from 
+93.4MB to 89.11MB
+
+$ npm install -g json-minify
+$ wget -qO- http://ofureukpebor.com/project/gbif.json | json-minify >> gbif.json
+

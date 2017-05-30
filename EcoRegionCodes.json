@@ -1,0 +1,1134 @@
+[
+  {
+    "name": "EcoRegionCodes",
+    "parent": "null",
+    "children": [
+      {
+        "name": "Arctic Cordillera: 1",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Artic Cordillera: 1.1",
+            "parent": "Arctic Cordillera: 1",
+            "children": [
+              {
+                "name": "Ellesmere and Devon Islands Ice Caps 1.1.1",
+                "parent": "Artic Cordillera: 1.1"
+              },
+              {
+                "name": "Baffin and Torngat Mountains 1.1.2",
+                "parent": "Artic Cordillera: 1.1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tundra: 2",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Northern Arctic: 2.1",
+            "parent": "Tundra: 2",
+            "children": [
+              {
+                "name": "Sverdrup Islands Lowland: 2.1.1",
+                "parent": "Northern Arctic: 2.1"
+              },
+              {
+                "name": "Ellesmere Mountains and Eureka Hills: 2.1.2",
+                "parent": "Northern Arctic: 2.1"
+              },
+              {
+                "name": "Parry Islands Plateau: 2.1.3",
+                "parent": "Northern Arctic: 2.1"
+              },
+              {
+                "name": "Lancaster and Borden Peninsula Plateaus: 2.1.4",
+                "parent": "Northern Arctic: 2.1"
+              },
+              {
+                "name": "Foxe Uplands: 2.1.5",
+                "parent": "Northern Arctic: 2.1"
+              },
+              {
+                "name": "Baffin Uplands: 2.1.6",
+                "parent": "Northern Arctic: 2.1"
+              },
+              {
+                "name": "Gulf of Boothia and Foxe Basin Plains: 2.1.7",
+                "parent": "Northern Arctic: 2.1"
+              },
+              {
+                "name": "Victoria Island Lowlands: 2.1.8",
+                "parent": "Northern Arctic: 2.1"
+              },
+              {
+                "name": "Banks Island and Amundsen Gulf Lowlands: 2.1.9",
+                "parent": "Northern Arctic: 2.1"
+              }
+            ]
+          },
+          {
+            "name": "Alaska Tundra: 2.2",
+            "parent": "Tundra: 2",
+            "children": [
+              {
+                "name": "Arctic Coastal Plain: 2.2.1",
+                "parent": "Alaska Tundra: 2.2"
+              },
+              {
+                "name": "Arctic Foothillss: 2.2.2",
+                "parent": "Alaska Tundra: 2.2"
+              },
+              {
+                "name": "Subarctic Coastal Plains: 2.2.3",
+                "parent": "Alaska Tundra: 2.2"
+              },
+              {
+                "name": "Seward Peninsula: 2.2.4",
+                "parent": "Alaska Tundra: 2.2"
+              },
+              {
+                "name": "Bristol Bay-Nushagak Lowlands: 2.2.5",
+                "parent": "Alaska Tundra: 2.2"
+              },
+              {
+                "name": "Aleutian Islands: 2.2.6",
+                "parent": "Alaska Tundra: 2.2"
+              }
+            ]
+          },
+          {
+            "name": "Brooks Range Tundra: 2.3",
+            "parent": "Tundra: 2",
+            "children": [
+              {
+                "name": "Brooks Range/Richardson Mountains: 2.3.1",
+                "parent": "Brooks Range Tundra: 2.3"
+              }
+            ]
+          },
+          {
+            "name": "Southern Arctic: 2.4",
+            "parent": "Tundra: 2",
+            "children": [
+              {
+                "name": "Amundsen Plains: 2.4.1",
+                "parent": "Southern Arctic: 2.4"
+              },
+              {
+                "name": "Aberdeen Plains: 2.4.2",
+                "parent": "Southern Arctic: 2.4"
+              },
+              {
+                "name": "Central Ungava Peninsula and Ottawa and Belcher Islands: 2.4.3",
+                "parent": "Southern Arctic: 2.4"
+              },
+              {
+                "name": "Queen Maud Gulf and Chantrey Inlet Lowland: 2.4.4",
+                "parent": "Southern Arctic: 2.4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Taiga: 3",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Alaska Boreal Interior: 3.1",
+            "parent": "Taiga: 3",
+            "children": [
+              {
+                "name": "Interior Forested Lowlands and Uplands: 3.1.1",
+                "parent": "Alaska Boreal Interior: 3.1"
+              },
+              {
+                "name": "Interior Bottomlands: 3.1.2",
+                "parent": "Alaska Boreal Interior: 3.1"
+              },
+              {
+                "name": "Yukon Flats: 3.1.3",
+                "parent": "Alaska Boreal Interior: 3.1"
+              }
+            ]
+          },
+          {
+            "name": "Taiga Cordillera: 3.2",
+            "parent": "Taiga: 3",
+            "children": [
+              {
+                "name": "Ogilvie Mountains: 3.2.1",
+                "parent": "Taiga Cordillera: 3.2"
+              },
+              {
+                "name": "Mackenzie and Selwyn Mountains: 3.2.2",
+                "parent": "Taiga Cordillera: 3.2"
+              },
+              {
+                "name": "Peel River and Nahanni Plateaus: 3.2.3",
+                "parent": "Taiga Cordillera: 3.2"
+              }
+            ]
+          },
+          {
+            "name": "Taiga Plain: 3.3",
+            "parent": "Taiga: 3",
+            "children": [
+              {
+                "name": "Great Bear Plains: 3.3.1",
+                "parent": "Taiga Plain: 3.3"
+              },
+              {
+                "name": "Hay and Slave River Lowlands: 3.3.2",
+                "parent": "Taiga Plain: 3.3"
+              }
+            ]
+          },
+          {
+            "name": "Taiga Shield: 3.4",
+            "parent": "Taiga: 3",
+            "children": [
+              {
+                "name": "Kazan River and Selwyn Lake Uplands: 3.4.1",
+                "parent": "Taiga Shield: 3.4"
+              },
+              {
+                "name": "La Grande Hills and New Quebec Central Plateau: 3.4.2",
+                "parent": "Taiga Shield: 3.4"
+              },
+              {
+                "name": "Smallwood Uplands: 3.4.3",
+                "parent": "Taiga Shield: 3.4"
+              },
+              {
+                "name": "Ungava Bay Basin and George Plateau: 3.4.4",
+                "parent": "Taiga Shield: 3.4"
+              },
+              {
+                "name": "Coppermine River and Tazin Lake Uplands: 3.4.5",
+                "parent": "Taiga Shield: 3.4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hudson Plains: 4",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Hudson Plain: 4.1",
+            "parent": "Hudson Plains: 4",
+            "children": [
+              {
+                "name": "Coastal Hudson Bay Lowland: 4.1.1",
+                "parent": "Hudson Plain: 4.1"
+              },
+              {
+                "name": "Hudson Bay and James Bay Lowlands: 4.1.2",
+                "parent": "Hudson Plain: 4.1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Northern Forests: 5",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Softwood Shield: 5.1",
+            "parent": "Northern Forests: 5",
+            "children": [
+              {
+                "name": "Athabasca Plain and Churchill River Upland: 5.1.1",
+                "parent": "Softwood Shield: 5.1"
+              },
+              {
+                "name": "Lake Nipigon and Lac Seul Upland: 5.1.2",
+                "parent": "Softwood Shield: 5.1"
+              },
+              {
+                "name": "Central Laurentians and Mecatina Plateau: 5.1.3",
+                "parent": "Softwood Shield: 5.1"
+              },
+              {
+                "name": "Newfoundland Island: 5.1.4",
+                "parent": "Softwood Shield: 5.1"
+              },
+              {
+                "name": "Hayes River Upland and Big Trout Lake: 5.1.5",
+                "parent": "Softwood Shield: 5.1"
+              },
+              {
+                "name": "Abitibi Plains and Riviere Rupert Plateau: 5.1.6",
+                "parent": "Softwood Shield: 5.1"
+              }
+            ]
+          },
+          {
+            "name": "Mixed Wood Shield: 5.2",
+            "parent": "Northern Forests: 5",
+            "children": [
+              {
+                "name": "Northern Lakes and Forests: 5.2.1",
+                "parent": "Mixed Wood Shield: 5.2"
+              },
+              {
+                "name": "Northern Minnesota Wetlands: 5.2.2",
+                "parent": "Mixed Wood Shield: 5.2"
+              },
+              {
+                "name": "Algonquin/Southern Laurentians: 5.2.3",
+                "parent": "Mixed Wood Shield: 5.2"
+              }
+            ]
+          },
+          {
+            "name": "Atlantic Highlands: 5.3",
+            "parent": "Northern Forests: 5",
+            "children": [
+              {
+                "name": "Northern Appalachian and Atlantic Maritime Highlands: 5.3.1",
+                "parent": "Atlantic Highlands: 5.3"
+              },
+              {
+                "name": "North Central Appalachians: 5.3.3",
+                "parent": "Atlantic Highlands: 5.3"
+              }
+            ]
+          },
+          {
+            "name": "Not Listed: 5.4",
+            "parent": "Northern Forests: 5",
+            "children": [
+              {
+                "name": "Mid-Boreal Uplands and Peace-Wabaska Lowlands: 5.4.1",
+                "parent": "Not Listed: 5.4"
+              },
+              {
+                "name": "Clear Hills and Western Alberta Upland: 5.4.2",
+                "parent": "Not Listed: 5.4"
+              },
+              {
+                "name": "Mid-Boreal Lowland and Interlake Plain: 5.4.3",
+                "parent": "Not Listed: 5.4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Northwestern Forested Mountains: 6",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Boreal Cordillera: 6.1",
+            "parent": "Northwestern Forested Mountains: 6",
+            "children": [
+              {
+                "name": "Interior Highlands and Klondike Plateau: 6.1.1",
+                "parent": "Boreal Cordillera: 6.1"
+              },
+              {
+                "name": "Alaska Range: 6.1.2",
+                "parent": "Boreal Cordillera: 6.1"
+              },
+              {
+                "name": "Copper Plateau: 6.1.3",
+                "parent": "Boreal Cordillera: 6.1"
+              },
+              {
+                "name": "Wrangell and St. Elias Mountains: 6.1.4",
+                "parent": "Boreal Cordillera: 6.1"
+              },
+              {
+                "name": "Watson Highlands: 6.1.5",
+                "parent": "Boreal Cordillera: 6.1"
+              },
+              {
+                "name": "Yukon-Stikine Highlands/Boreal Mountains and Plateaus: 6.1.6",
+                "parent": "Boreal Cordillera: 6.1"
+              }
+            ]
+          },
+          {
+            "name": "Western Cordillera: 6.2",
+            "parent": "Northwestern Forested Mountains: 6",
+            "children": [
+              {
+                "name": "Skeena-Omineca-Central Canadian Rocky Mountains: 6.2.1",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Chilcotin Ranges and Fraser Plateau: 6.2.2",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Columbia Mountains/Northern Rockies: 6.2.3",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Canadian Rockies: 6.2.4",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "North Cascades: 6.2.5",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Cypress Upland: 6.2.6",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Cascades: 6.2.7",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Eastern Cascades Slopes and Foothills: 6.2.8",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Blue Mountains: 6.2.9",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Middle Rockies: 6.2.10",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Klamath Mountains: 6.2.11",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Sierra Nevada: 6.2.12",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Wasatch and Uinta Mountains: 6.2.13",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Southern Rockies: 6.2.14",
+                "parent": "Western Cordillera: 6.2"
+              },
+              {
+                "name": "Idaho Batholith: 6.2.15",
+                "parent": "Western Cordillera: 6.2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Marine West Coast Forests: 7",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Marine West Coast Forest: 7.1",
+            "parent": "Marine West Coast Forests: 7",
+            "children": [
+              {
+                "name": "Ahklun and Kilbuck Mountains: 7.1.1",
+                "parent": "Marine West Coast Forest: 7.1"
+              },
+              {
+                "name": "Alaska Peninsula Mountains: 7.1.2",
+                "parent": "Marine West Coast Forest: 7.1"
+              },
+              {
+                "name": "Cook Inlet: 7.1.3",
+                "parent": "Marine West Coast Forest: 7.1"
+              },
+              {
+                "name": "Pacific Coastal Mountains: 7.1.4",
+                "parent": "Marine West Coast Forest: 7.1"
+              },
+              {
+                "name": "Coastal Western Hemlock-Sitka Spruce Forests: 7.1.5",
+                "parent": "Marine West Coast Forest: 7.1"
+              },
+              {
+                "name": "Pacific and Nass Ranges: 7.1.6",
+                "parent": "Marine West Coast Forest: 7.1"
+              },
+              {
+                "name": "Strait of Georgia/Puget Lowland: 7.1.7",
+                "parent": "Marine West Coast Forest: 7.1"
+              },
+              {
+                "name": "Coast Range: 7.1.8",
+                "parent": "Marine West Coast Forest: 7.1"
+              },
+              {
+                "name": "Willamette Valley: 7.1.9",
+                "parent": "Marine West Coast Forest: 7.1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Eastern Temperate Forests: 8",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Mixed Wood Plains: 8.1",
+            "parent": "Eastern Temperate Forests: 8",
+            "children": [
+              {
+                "name": "Eastern Great Lakes and Hudson Lowlands: 8.1.1",
+                "parent": "Mixed Wood Plains: 8.1"
+              },
+              {
+                "name": "Lake Erie Lowland: 8.1.2",
+                "parent": "Mixed Wood Plains: 8.1"
+              },
+              {
+                "name": "Northern Appalachian Plateau and Uplands: 8.1.3",
+                "parent": "Mixed Wood Plains: 8.1"
+              },
+              {
+                "name": "North Central Hardwood Forests: 8.1.4",
+                "parent": "Mixed Wood Plains: 8.1"
+              },
+              {
+                "name": "Driftless Area: 8.1.5",
+                "parent": "Mixed Wood Plains: 8.1"
+              },
+              {
+                "name": "S. Michigan/N. Indiana Drift Plains: 8.1.6",
+                "parent": "Mixed Wood Plains: 8.1"
+              },
+              {
+                "name": "Northeastern Coastal Zone: 8.1.7",
+                "parent": "Mixed Wood Plains: 8.1"
+              },
+              {
+                "name": "Maine/New Brunswick Plains and Hills: 8.1.8",
+                "parent": "Mixed Wood Plains: 8.1"
+              },
+              {
+                "name": "Maritime Lowlands: 8.1.9",
+                "parent": "Mixed Wood Plains: 8.1"
+              },
+              {
+                "name": "Erie Drift Plain: 8.1.10",
+                "parent": "Mixed Wood Plains: 8.1"
+              }
+            ]
+          },
+          {
+            "name": "Central Usa Plains: 8.2",
+            "parent": "Eastern Temperate Forests: 8",
+            "children": [
+              {
+                "name": "Southeastern Wisconsin Till Plains: 8.2.1",
+                "parent": "Central Usa Plains: 8.2"
+              },
+              {
+                "name": "Huron/Erie Lake Plains: 8.2.2",
+                "parent": "Central Usa Plains: 8.2"
+              },
+              {
+                "name": "Central Corn Belt Plains: 8.2.3",
+                "parent": "Central Usa Plains: 8.2"
+              },
+              {
+                "name": "Eastern Corn Belt Plains: 8.2.4",
+                "parent": "Central Usa Plains: 8.2"
+              }
+            ]
+          },
+          {
+            "name": "Southeastern Usa Plains: 8.3",
+            "parent": "Eastern Temperate Forests: 8",
+            "children": [
+              {
+                "name": "Northern Piedmont: 8.3.1",
+                "parent": "Southeastern Usa Plains: 8.3"
+              },
+              {
+                "name": "Interior River Valleys and Hills: 8.3.2",
+                "parent": "Southeastern Usa Plains: 8.3"
+              },
+              {
+                "name": "Interior Plateau: 8.3.3",
+                "parent": "Southeastern Usa Plains: 8.3"
+              },
+              {
+                "name": "Piedmont: 8.3.4",
+                "parent": "Southeastern Usa Plains: 8.3"
+              },
+              {
+                "name": "Southeastern Plains: 8.3.5",
+                "parent": "Southeastern Usa Plains: 8.3"
+              },
+              {
+                "name": "Mississippi Valley Loess Plains: 8.3.6",
+                "parent": "Southeastern Usa Plains: 8.3"
+              },
+              {
+                "name": "South Central Plains: 8.3.7",
+                "parent": "Southeastern Usa Plains: 8.3"
+              },
+              {
+                "name": "East Central Texas Plains: 8.3.8",
+                "parent": "Southeastern Usa Plains: 8.3"
+              }
+            ]
+          },
+          {
+            "name": "Ozark| Ouachita-Appalachian Forests: 8.4",
+            "parent": "Eastern Temperate Forests: 8",
+            "children": [
+              {
+                "name": "Ridge and Valley: 8.4.1",
+                "parent": "Ozark| Ouachita-Appalachian Forests: 8.4"
+              },
+              {
+                "name": "Central Appalachians: 8.4.2",
+                "parent": "Ozark| Ouachita-Appalachian Forests: 8.4"
+              },
+              {
+                "name": "Western Allegheny Plateau: 8.4.3",
+                "parent": "Ozark| Ouachita-Appalachian Forests: 8.4"
+              },
+              {
+                "name": "Blue Ridge: 8.4.4",
+                "parent": "Ozark| Ouachita-Appalachian Forests: 8.4"
+              },
+              {
+                "name": "Ozark Highlands: 8.4.5",
+                "parent": "Ozark| Ouachita-Appalachian Forests: 8.4"
+              },
+              {
+                "name": "Boston Mountains: 8.4.6",
+                "parent": "Ozark| Ouachita-Appalachian Forests: 8.4"
+              },
+              {
+                "name": "Arkansas Valley: 8.4.7",
+                "parent": "Ozark| Ouachita-Appalachian Forests: 8.4"
+              },
+              {
+                "name": "Ouachita Mountains: 8.4.8",
+                "parent": "Ozark| Ouachita-Appalachian Forests: 8.4"
+              },
+              {
+                "name": "Southwestern Appalachians: 8.4.9",
+                "parent": "Ozark| Ouachita-Appalachian Forests: 8.4"
+              }
+            ]
+          },
+          {
+            "name": "Mississippi Alluvial And Southeast Usa Coastal Plains: 8.5",
+            "parent": "Eastern Temperate Forests: 8",
+            "children": [
+              {
+                "name": "Middle Atlantic Coastal Plain: 8.5.1",
+                "parent": "Mississippi Alluvial And Southeast Usa Coastal Plains: 8.5"
+              },
+              {
+                "name": "Mississippi Alluvial Plain: 8.5.2",
+                "parent": "Mississippi Alluvial And Southeast Usa Coastal Plains: 8.5"
+              },
+              {
+                "name": "Southern Coastal Plain: 8.5.3",
+                "parent": "Mississippi Alluvial And Southeast Usa Coastal Plains: 8.5"
+              },
+              {
+                "name": "Atlantic Coastal Pine Barrens: 8.5.4",
+                "parent": "Mississippi Alluvial And Southeast Usa Coastal Plains: 8.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Great Plains: 9",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Boreal Plain: 9.1",
+            "parent": "Great Plains: 9"
+          },
+          {
+            "name": "Temperate Prairies: 9.2",
+            "parent": "Great Plains: 9",
+            "children": [
+              {
+                "name": "Aspen Parkland/Northern Glaciated Plains: 9.2.1",
+                "parent": "Temperate Prairies: 9.2"
+              },
+              {
+                "name": "Lake Manitoba and Lake Agassiz Plain: 9.2.2",
+                "parent": "Temperate Prairies: 9.2"
+              },
+              {
+                "name": "Western Corn Belt Plains: 9.2.3",
+                "parent": "Temperate Prairies: 9.2"
+              },
+              {
+                "name": "Central Irregular Plains: 9.2.4",
+                "parent": "Temperate Prairies: 9.2"
+              }
+            ]
+          },
+          {
+            "name": "West-Central Semi-Arid Prairies: 9.3",
+            "parent": "Great Plains: 9",
+            "children": [
+              {
+                "name": "Northwestern Glaciated Plainss: 9.3.1",
+                "parent": "West-Central Semi-Arid Prairies: 9.3"
+              },
+              {
+                "name": "Northwestern Great Plains: 9.3.3",
+                "parent": "West-Central Semi-Arid Prairies: 9.3"
+              },
+              {
+                "name": "Nebraska Sand Hills: 9.3.4",
+                "parent": "West-Central Semi-Arid Prairies: 9.3"
+              }
+            ]
+          },
+          {
+            "name": "South Central Semi-Arid Prairies: 9.4",
+            "parent": "Great Plains: 9",
+            "children": [
+              {
+                "name": "High Plains: 9.4.1",
+                "parent": "South Central Semi-Arid Prairies: 9.4"
+              },
+              {
+                "name": "Central Great Plains: 9.4.2",
+                "parent": "South Central Semi-Arid Prairies: 9.4"
+              },
+              {
+                "name": "Southwestern Tablelands: 9.4.3",
+                "parent": "South Central Semi-Arid Prairies: 9.4"
+              },
+              {
+                "name": "Flint Hills: 9.4.4",
+                "parent": "South Central Semi-Arid Prairies: 9.4"
+              },
+              {
+                "name": "Cross Timbers: 9.4.5",
+                "parent": "South Central Semi-Arid Prairies: 9.4"
+              },
+              {
+                "name": "Edwards Plateau: 9.4.6",
+                "parent": "South Central Semi-Arid Prairies: 9.4"
+              },
+              {
+                "name": "Texas Blackland Prairies: 9.4.7",
+                "parent": "South Central Semi-Arid Prairies: 9.4"
+              }
+            ]
+          },
+          {
+            "name": "Texas-Louisiana Coastal Plain: 9.5",
+            "parent": "Great Plains: 9",
+            "children": [
+              {
+                "name": "Western Gulf Coastal Plain: 9.5.1",
+                "parent": "Texas-Louisiana Coastal Plain: 9.5"
+              }
+            ]
+          },
+          {
+            "name": "Tamaulipas-Texas Semiarid Plain: 9.6",
+            "parent": "Great Plains: 9",
+            "children": [
+              {
+                "name": "Southern Texas Plains/Interior Plains and Hills with Xerophytic Shrub and Oak Forest: 9.6.1",
+                "parent": "Tamaulipas-Texas Semiarid Plain: 9.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "North American Deserts: 10",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Western Interior Basins And Ranges: 10.1",
+            "parent": "North American Deserts: 10",
+            "children": [
+              {
+                "name": "Thompson-Okanogan Plateau: 10.1.1",
+                "parent": "Western Interior Basins And Ranges: 10.1"
+              },
+              {
+                "name": "Columbia Plateau: 10.1.2",
+                "parent": "Western Interior Basins And Ranges: 10.1"
+              },
+              {
+                "name": "Northern Basin and Range: 10.1.3",
+                "parent": "Western Interior Basins And Ranges: 10.1"
+              },
+              {
+                "name": "Wyoming Basin: 10.1.4",
+                "parent": "Western Interior Basins And Ranges: 10.1"
+              },
+              {
+                "name": "Central Basin and Range: 10.1.5",
+                "parent": "Western Interior Basins And Ranges: 10.1"
+              },
+              {
+                "name": "Colorado Plateaus: 10.1.6",
+                "parent": "Western Interior Basins And Ranges: 10.1"
+              },
+              {
+                "name": "Arizona/New Mexico Plateau: 10.1.7",
+                "parent": "Western Interior Basins And Ranges: 10.1"
+              },
+              {
+                "name": "Snake River Plain: 10.1.8",
+                "parent": "Western Interior Basins And Ranges: 10.1"
+              }
+            ]
+          },
+          {
+            "name": "Sonoran And Mohave Deserts: 10.2",
+            "parent": "North American Deserts: 10",
+            "children": [
+              {
+                "name": "Mojave Basin and Range: 10.2.1",
+                "parent": "Western Interior Basins And Ranges: 10.2"
+              },
+              {
+                "name": "Sonoran Desert: 10.2.2",
+                "parent": "Western Interior Basins And Ranges: 10.2"
+              },
+              {
+                "name": "Baja Californian Desert: 10.2.3",
+                "parent": "Western Interior Basins And Ranges: 10.2"
+              },
+              {
+                "name": "Chihuahuan Desert: 10.2.4",
+                "parent": "Western Interior Basins And Ranges: 10.2"
+              }
+              ]
+          },
+          {
+            "name": "Baja Californian Desert: 10.3",
+            "parent": "North American Deserts: 10"
+          },
+          {
+            "name": "Chihuahuan Desert: 10.4",
+            "parent": "North American Deserts: 10"
+          }
+        ]
+      },
+      {
+        "name": "Mediterranean California: 11",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Mediterranean California: 11.1",
+            "parent": "Mediterranean California: 11",
+            "children": [
+              {
+                "name": "California Coastal Sage, Chaparral, and Oak Woodlands: 11.1.1",
+                "parent": "Mediterranean California: 11.1"
+              },
+              {
+                "name": "Central California Valley: 11.1.2",
+                "parent": "Mediterranean California: 11.1"
+              },
+              {
+                "name": "Southern and Baja California Pine-Oak Mountains: 11.1.3",
+                "parent": "Mediterranean California: 11.1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Southern Semi-Arid Highlands: 12",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Western Sierra Madre Piedmont: 12.1",
+            "parent": "Southern Semi-Arid Highlands: 12",
+            "children": [
+              {
+                "name": "Madrean Archipelago: 12.1.1",
+                "parent": "Western Sierra Madre Piedmont: 12.1"
+              },
+              {
+                "name": "Piedmonts and Plains with Grasslands, Xeric Shrub, and Oak and Conifer Forests: 12.1.2",
+                "parent": "Western Sierra Madre Piedmont: 12.1"
+              }
+            ]
+          },
+          {
+            "name": "Mexican High Plateau: 12.2",
+            "parent": "Southern Semi-Arid Highlands: 12",
+            "children": [
+              {
+                "name": "Hills and Interior Plains with Xeric Shrub and Mesquite  Low Forest: 12.2.1",
+                "parent": "Mexican High Plateau: 12.2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Temperate Sierras: 13",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Upper Gila Mountains: 13.1",
+            "parent": "Temperate Sierras: 13",
+            "children": [
+              {
+                "name": "Arizona/New Mexico Mountains: 13.1.1",
+                "parent": "Upper Gila Mountains: 13.1"
+              }
+            ]
+          },
+          {
+            "name": "Western Sierra Madre: 13.2",
+            "parent": "Temperate Sierras: 13",
+            "children": [
+              {
+                "name": "Sierra Madre Occidental with Conifer, Oak, and Mixed Forests: 13.2.1",
+                "parent": "Western Sierra Madre: 13.2"
+              }
+            ]
+          },
+          {
+            "name": "Eastern Sierra Madre: 13.3",
+            "parent": "Temperate Sierras: 13",
+            "children": [
+              {
+                "name": "Sierra Madre Oriental with Conifer, Oak, and Mixed Forests: 13.3.1",
+                "parent": "Eastern Sierra Madre: 13.3"
+              }
+            ]
+          },
+          {
+            "name": "Transversal Neo-Volcanic System: 13.4",
+            "parent": "Temperate Sierras: 13",
+            "children": [
+              {
+                "name": "Interior Plains and Piedmonts with Grasslands and Xeric Shrub: 13.4.1",
+                "parent": "Transversal Neo-Volcanic System: 13.4"
+              },
+              {
+                "name": "Hills and Sierras with Conifer, Oak, and Mixed Forests: 13.4.2",
+                "parent": "Transversal Neo-Volcanic System: 13.4"
+              }
+            ]
+          },
+          {
+            "name": "Southern Sierra Madre: 13.5",
+            "parent": "Temperate Sierras: 13",
+            "children": [
+              {
+                "name": "Sierras of Jalisco and Michoacan with Conifer, Oak, and Mixed Forests: 13.5.1",
+                "parent": "Southern Sierra Madre: 13.5"
+              },
+              {
+                "name": "Sierras of Guerrero and Oaxaca with Conifer, Oak, and Mixed Forests: 13.5.2",
+                "parent": "Southern Sierra Madre: 13.5"
+              }
+            ]
+          },
+          {
+            "name": "Central American Sierra Madre And Chiapas Highlands: 13.6",
+            "parent": "Temperate Sierras: 13",
+            "children": [
+              {
+                "name": "Central American Sierra Madre with Conifer, Oak, and Mixed Forests: 13.6.1",
+                "parent": "Central American Sierra Madre And Chiapas Highlands: 13.6"
+              },
+              {
+                "name": "Chiapas Highlands with Conifer, Oak, and Mixed Forest: 13.6.2",
+                "parent": "Central American Sierra Madre And Chiapas Highlands: 13.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tropical Dry Forests: 14",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Dry Gulf Of Mexico Coastal Plains And Hills: 14.1",
+            "parent": "Tropical Dry Forests: 14",
+            "children": [
+              {
+                "name": "Coastal Plain with Low Tropical Deciduous Forest: 14.1.1",
+                "parent": "Dry Gulf Of Mexico Coastal Plains And Hills: 14.1"
+              },
+              {
+                "name": "Hills and Sierra with Low Tropical Deciduous Forest and Oak Forest: 14.1.2",
+                "parent": "Dry Gulf Of Mexico Coastal Plains And Hills: 14.1"
+              }
+            ]
+          },
+          {
+            "name": "Northwestern Plain Of The Yucatan Peninsula: 14.2",
+            "parent": "Tropical Dry Forests: 14",
+            "children": [
+              {
+                "name": "Northwestern Yucatan Plain with Low Tropical Deciduous Forest: 14.2.1",
+                "parent": "Northwestern Plain Of The Yucatan Peninsula: 14.2"
+              }
+            ]
+          },
+          {
+            "name": "Western Pacific Coastal Plain| Hills And Canyons: 14.3",
+            "parent": "Tropical Dry Forests: 14",
+            "children": [
+              {
+                "name": "Sinaloa Coastal Plain with Low Thorn Tropical Forest and Wetlands: 14.3.1",
+                "parent": "Western Pacific Coastal Plain| Hills And Canyons: 14.3"
+              },
+              {
+                "name": "Sinaloa and Sonora Hills and Canyons with Xeric Shrub and Low Tropical Deciduous Forest: 14.3.2",
+                "parent": "Western Pacific Coastal Plain| Hills And Canyons: 14.3"
+              }
+            ]
+          },
+          {
+            "name": "Interior Depressions: 14.4",
+            "parent": "Tropical Dry Forests: 14",
+            "children": [
+              {
+                "name": "Balsas Depression with Low Tropical Deciduous Forest and Xerophytic Shrub: 14.4.1",
+                "parent": "Interior Depressions: 14.4"
+              },
+              {
+                "name": "Chiapas Depression with Low Deciduous and Medium Semi-Deciduous Tropical Forest: 14.4.2",
+                "parent": "Interior Depressions: 14.4"
+              },
+              {
+                "name": "Valleys and Depressions with Xeric Shrub and Low Tropical Deciduous Forest: 14.4.2",
+                "parent": "Interior Depressions: 14.4"
+              }
+            ]
+          },
+          {
+            "name": "Southern Pacific Coastal Plain And Hills: 14.5",
+            "parent": "Tropical Dry Forests: 14",
+            "children": [
+              {
+                "name": "Tehuantepec Canyon and Plain with Low Tropical Deciduous Forest and Low Thorn Tropical Forest: 14.5.1",
+                "parent": "Southern Pacific Coastal Plain And Hills: 14.5"
+              },
+              {
+                "name": "South Pacific Hills and Piedmonts with Low Tropical Deciduous Forest: 14.5.2",
+                "parent": "Southern Pacific Coastal Plain And Hills: 14.5"
+              }
+            ]
+          },
+          {
+            "name": "Sierra And Plains Of El Cabo: 14.6",
+            "parent": "Tropical Dry Forests: 14",
+            "children": [
+              {
+                "name": "Los Cabos Plains and Hills with Low Tropical Deciduous Forest and Xeric Shrub: 14.6.1",
+                "parent": "Sierra And Plains Of El Cabo: 14.6"
+              },
+              {
+                "name": "La Laguna Mountains with Oak and Conifer Forest: 14.6.2",
+                "parent": "Sierra And Plains Of El Cabo: 14.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tropical Humid Forests: 15",
+        "parent": "EcoRegionCodes",
+        "children": [
+          {
+            "name": "Humid Gulf Of Mexico Coastal Plains And Hills: 15.1",
+            "parent": "Tropical Humid Forests: 15",
+            "children": [
+              {
+                "name": "Gulf of Mexico Coastal Plain with Wetlands and High Tropical Rain Forest: 15.1.1",
+                "parent": "Humid Gulf Of Mexico Coastal Plains And Hills: 15.1"
+              },
+              {
+                "name": "Hills with Medium and High Evergreen Tropical Forest: 15.1.2",
+                "parent": "Humid Gulf Of Mexico Coastal Plains And Hills: 15.1"
+              }
+            ]
+          },
+          {
+            "name": "Plain And Hills Of The Yucatan Peninsula: 15.2",
+            "parent": "Tropical Humid Forests: 15",
+            "children": [
+              {
+                "name": "Plain with Low and Medium Deciduous Tropical Forest: 15.2.1",
+                "parent": "Plain And Hills Of The Yucatan Peninsula: 15.2"
+              },
+              {
+                "name": "Plain with Medium and High Semi-Evergreen Tropical Forest: 15.2.2",
+                "parent": "Plain And Hills Of The Yucatan Peninsula: 15.2"
+              },
+              {
+                "name": "Hills with High and Medium Semi-Evergreen Tropical Forest: 15.2.3",
+                "parent": "Plain And Hills Of The Yucatan Peninsula: 15.2"
+              }
+            ]
+          },
+          {
+            "name": "Sierra Los Tuxtlas: 15.3",
+            "parent": "Tropical Humid Forests: 15",
+            "children": [
+              {
+                "name": "Los Tuxtlas Sierra with High Evergreen Tropical Forest: 15.3.1",
+                "parent": "Sierra Los Tuxtlas: 15.3"
+              }
+            ]
+          },
+          {
+            "name": "Everglades: 15.4",
+            "parent": "Tropical Humid Forests: 15",
+            "children": [
+              {
+                "name": "Southern Florida Coastal Plain: 15.4.1",
+                "parent": "Everglades: 15.4"
+              }
+            ]
+          },
+          {
+            "name": "Western Pacific Plain And Hills: 15.5",
+            "parent": "Tropical Humid Forests: 15",
+            "children": [
+              {
+                "name": "Nayarit and Sinaloa Plain with Low Thorn Tropical Forest: 15.5.1",
+                "parent": "Western Pacific Plain And Hills: 15.5"
+              },
+              {
+                "name": "Jalisco and Nayarit Hills and Plains with Medium Semi-Evergreen Tropical Forest: 15.5.2",
+                "parent": "Western Pacific Plain And Hills: 15.5"
+              }
+            ]
+          },
+          {
+            "name": "Coastal Plain And Hills Of Soconusco: 15.6",
+            "parent": "Tropical Humid Forests: 15",
+            "children": [
+              {
+                "name": "Coastal Plain and Hills with High and Medium-High Evergreen Tropical Forest and Wetlands: 15.6.1",
+                "parent": "Coastal Plain And Hills Of Soconusco: 15.6"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
